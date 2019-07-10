@@ -1,0 +1,48 @@
+* {
+margin: 0;
+padding: 0;
+
+}
+
+body {
+    background-color: #3a4444;
+    padding: 20px;
+}
+
+header {
+    width: 200px;
+    border: 2px solid lightgreen;
+    color: black;
+    background-color: lightyellow;
+    text-align: center;
+    margin-left: 5%;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+nav {
+    width: 200px;
+    border: 2px solid lightgreen;
+    color: black;
+    background-color: lightyellow;
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+section{
+    width: 200px;
+    border: 2px solid lightgreen;
+    color: black;
+    background-color: lightyellow;
+
+}
