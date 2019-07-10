@@ -39,10 +39,33 @@ nav {
 }
 
 
-section{
-    width: 200px;
+section {
+    clear: both;
+    width: 42%;
     border: 2px solid lightgreen;
     color: black;
     background-color: lightyellow;
+    text-align: center;
+    margin-left: 5%;
+    padding-bottom: 200px;
 
+}
+
+article {
+    float:left;
+    width: 200px;
+    border: 2px solid lightgreen;
+    color: black;
+    background-color: lightblue;
+    text-align: center;
+    margin-left: 7%;
+    margin-top: 10%;
+    padding-left: 140px;
+    padding-right: 140px;
+    padding-bottom: 70px;
+
+}
+
+h1 {
+    
 }
