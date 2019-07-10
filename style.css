@@ -6,121 +6,142 @@ padding: 0;
 
 body {
     background-color: #3a4444;
-    padding: 20px;
+    
+    
 }
 
 header {
-    width: 200px;
+    width:50%;
     border: 2px solid lightgreen;
     color: black;
     background-color: lightyellow;
     text-align: center;
-    margin-left: 5%;
-    padding-left: 500px;
-    padding-right: 500px;
+    margin-left: 25%;
+    margin-right: 1%;
+    padding-left: 0px;
+    padding-right: 0px;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-top: 20px;
+
 
 }
 
 nav {
-    width: 200px;
+    width:50%;
     border: 2px solid lightgreen;
     color: black;
     background-color: lightyellow;
     text-align: center;
-    margin-left: 5%;
-    margin-top: 1%;
-    margin-bottom: 2%;
-    padding-left: 500px;
-    padding-right: 500px;
+    margin-left: 25%;
+    margin-right: 1%;
+    padding-left: 0px;
+    padding-right: 0px;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-top: 20px;
+
 }
 
 
+
+
 section {
-    clear: both;
-    float:left;
-    width: 42%;
+    
+    float: left;
+    width: 30%;
+    height: 410px;
     border: 2px solid lightgreen;
     color: black;
     background-color: lightyellow;
     text-align: center;
-    margin-left: 5%;
-    padding-bottom: 200px;
+    margin-left: 25%;
+    
+    margin-top: 20px;
+
 
 }
 
 article {
-    clear: both;
-    float:left;
-    width: 200px;
+    height: 320px;
+    width: 93%;
     border: 2px solid lightgreen;
     color: black;
-    background-color: yellow;
+    background-color: lightblue;
     text-align: center;
-    margin-left: 7%;
+    margin-left: 10px;
     margin-top: 10%;
-    padding-left: 140px;
-    padding-right: 140px;
-    padding-bottom: 40px;
-
+    
+    padding-right: 10px;
+    
 }
 
 h1 {
     
-    clear:both;
+    height: 100px;
     border: 2px solid lightgreen;
     color: black;
-    background-color: red;
+    background-color: lightcoral;
     text-align: center;
+    margin-left: 8px;
     margin-top: 5%;
     margin-bottom: 3%;
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
+    
 
 }
 
 #p {
-    
-    clear:both;
+    height: 100px;
+
     border: 2px solid lightgreen;
     color: black;
-    background-color: red;
+    background-color: lightcoral;
     text-align: center;
     margin-top: 5%;
+    margin-left: 8px;
     margin-bottom: 3%;
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
+    
 }
 
 
 aside {
     float: left;
-    width: 42%;
+    width: 10%;
+    height: 410px;
     border: 2px solid lightgreen;
     color: black;
     background-color: lightyellow;
     text-align: center;
-    margin-left: 5%;
-    padding-right: 18px;
-    padding-bottom: 392px;
+    padding-right: 165px;
+    margin-left: 1%;
+    margin-top: 1%;
+   
 }
 
 footer {
-    float: left;
-    clear: both;
-    width: 200px;
+    
+    clear: left;
+    width: 50%;
     border: 2px solid lightgreen;
     color: black;
     background-color: lightyellow;
     text-align: center;
-    margin-left: 5%;
-    margin-top: 1%;
-    padding-left: 500px;
-    padding-right: 500px;
+    margin-top: 25%;
+    margin-bottom: 20px;
+    margin-left: 25%;
+    margin-right: 1%;
+    padding-left: 0px;
+    padding-right: 0px;
     padding-top: 20px;
     padding-bottom: 20px;
+    
+
 
 }
+
+
+
